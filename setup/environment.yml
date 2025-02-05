@@ -1,0 +1,19 @@
+dependencies:
+  - python=3.9
+  - pip
+  - numpy
+  - pandas
+  - tqdm
+  - torchvision
+  - torchaudio
+  - torchmetrics
+  - matplotlib
+  - pillow
+  - glob2
+  - pycocotools    # <- Add this line
+  - notebook
+  - jupyterlab
+  - ipykernel
+  - pip:
+      - torchvision
+      - torchmetrics[detection]   # <- Optional, ensures detection dependencies
