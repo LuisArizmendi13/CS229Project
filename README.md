@@ -28,6 +28,7 @@ Strawberyy Disease Detection Dataset: https://www.kaggle.com/datasets/usmanafzaa
 
 ### Kaggle Code:  
 mask rcnn: https://www.kaggle.com/code/krajnovic/mask-rcnn
+CNN: https://www.kaggle.com/code/pahirathannithilan/plant-disease-prediction-with-cnn-deep-learning 
 
 ### Literature: 
 EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks: https://arxiv.org/pdf/1905.11946 
