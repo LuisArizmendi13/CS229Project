@@ -23,11 +23,13 @@ https://docs.google.com/document/d/1D2AZKxSpG2oHcaqMvG3Ct5w8MT3Z4-U3/edit#headin
 
 ### Kaggle Datasets:  
 
-PlantVillage Dataset: https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset  
-Strawberyy Disease Detection Dataset: https://www.kaggle.com/datasets/usmanafzaal/strawberry-disease-detection-dataset/data 
+PlantVillage Dataset: https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset   
+
+Strawberry Disease Detection Dataset: https://www.kaggle.com/datasets/usmanafzaal/strawberry-disease-detection-dataset/data 
 
 ### Kaggle Code:  
-mask rcnn: https://www.kaggle.com/code/krajnovic/mask-rcnn
+mask rcnn: https://www.kaggle.com/code/krajnovic/mask-rcnn 
+
 CNN: https://www.kaggle.com/code/pahirathannithilan/plant-disease-prediction-with-cnn-deep-learning 
 
 ### Literature: 
