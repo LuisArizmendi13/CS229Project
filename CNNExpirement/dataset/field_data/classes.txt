@@ -1,0 +1,5 @@
+unhealthy_leaf
+blossom
+unripe
+weed
+ripe

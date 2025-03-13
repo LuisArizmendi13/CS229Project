@@ -1,0 +1,9 @@
+names:
+- unhealthy_leaf
+- blossom
+- unripe
+- weed
+- ripe
+nc: 5
+train: /home/larizmen/cs229/CS229Project/CNNExpirement/dataset/field_data/train
+val: /home/larizmen/cs229/CS229Project/CNNExpirement/dataset/field_data/val
